@@ -115,4 +115,4 @@ See the [full write-up](https://app.notion.com/p/Maven-Fuzzy-Factory-E-Commerce-
 
 ## Author
 
-Renaldi Ananda Riadi — [LinkedIn](https://www.linkedin.com/in/renaldiananda/) — [Portfolio](https://calico-washer-b04.notion.site/Data-Analytics-Portfolio-392f8f28dbd28073a0a4cd2ea9b937d6)
+Renaldi Ananda Riadi — [LinkedIn](https://www.linkedin.com/in/renaldiananda/) — [Portfolio](https://renaldi-portfolio.super.site/)
